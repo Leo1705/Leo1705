@@ -4,7 +4,7 @@
 
 - 🔭 I just finished learning React.js!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other startup's
+- 👯 I’m looking to collaborate with students
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to music and play on cssbattle.dev
 
