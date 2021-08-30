@@ -36,7 +36,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![Leonid1705's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo1705a&theme=dark&show_icons=true)
+![Leonid1705's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo1705&theme=dark&show_icons=true)
 
 </details>
 
