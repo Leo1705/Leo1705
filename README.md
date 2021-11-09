@@ -3,8 +3,8 @@
 ## I'm a student, self-taught, developer!
 
 - 🔭 I just finished learning React.js!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with students
+- 🌱 I’m currently working on everything 🤣
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to music and play on cssbattle.dev
 
