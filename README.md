@@ -6,7 +6,7 @@
 - 🌱 I’m currently working on everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen to music and play on cssbattle.dev
+- ⚡ Fun fact: I love to listen to music
 
 ### Connect with me:
 
