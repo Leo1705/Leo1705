@@ -1,11 +1,11 @@
 ### Hi there, I'm Leonid 👋
 
-## I'm a student, self-taught, developer!
+## I'm a  self-taught, developer!
 
 - 🔭 I just finished learning React.js!
 - 🌱 I’m currently working on everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to music
 
 ### Connect with me:
