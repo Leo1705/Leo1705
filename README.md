@@ -1,11 +1,5 @@
 ### Hi there, I'm Leonid 👋
 
-## I'm a  self-taught, developer!
-
-- 🌱 I’m currently working on everything 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen to opera music
 
 ### Connect with me:
 
