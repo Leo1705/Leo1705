@@ -33,7 +33,7 @@
 
 </details>
 
-[website]: https://leonidpetkovski.netlify.app
-[twitter]: https://twitter.com/Leonid27597029
-[instagram]: https://www.instagram.com/leonid.petkovski/
+[website]: https://leonidpetkovski.com
+[twitter]: https://twitter.com/leonidovski
+[instagram]: https://www.instagram.com/leonidovski
 [linkedin]: https://www.linkedin.com/in/leonid-petkovski-8aba8721a/
